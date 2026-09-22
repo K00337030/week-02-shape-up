@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+head h1 {
+    color: dodgerblue;
+}
+
+h3 {
+    color: maroon;
+    text-decoration: underline;
+}
